@@ -34,10 +34,3 @@ body {
 .mcl-column-50 {
   flex: 50%;
 }
-
-.payment-method-moreinfo {
-    border: 1px;
-    border-style: solid;
-    padding: 2px;
-    line-break: 2px;
-}
