@@ -34,3 +34,7 @@ body {
 .mcl-column-50 {
   flex: 50%;
 }
+
+hr {
+	width: 25%
+}
